@@ -1,4 +1,4 @@
-package de.tsz.storagebs;
+package tab.de.bansky.lagerbs;
 
 import org.junit.Test;
 
